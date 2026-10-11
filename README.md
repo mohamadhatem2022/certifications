@@ -2,15 +2,22 @@
 
 Petroleum Engineer | MASC Candidate, Memorial University of Newfoundland
 
-## Certificates
+## Core Engineering & Technical
+- [Technical Certificates](paste-link-here)
+- [Petroleum Conferences](paste-link-here)
+- [Field Training](paste-link-here)
 
-1. [Certificate Name 1](link-to-pdf-1)
-2. [Certificate Name 2](link-to-pdf-2)
-3. [Certificate Name 3](link-to-pdf-3)
-4. [Certificate Name 4](link-to-pdf-4)
-5. [Certificate Name 5](link-to-pdf-5)
+## IT & Software
+- [IT Certificates](paste-link-here)
+
+## Languages & Soft Skills
+- [Language Certificates](paste-link-here)
+- [German Language (Duolingo)](paste-link-here)
+- [Soft Skills](paste-link-here)
+
+## Academic
+- [Graduation Certificate](paste-link-here)
 
 ## Contact
-
 - Email: mhmsaelkady@mun.ca
-- LinkedIn: linkedin.com/in/[your-handle]
+- LinkedIn: https://www.linkedin.com/in/mohamad-hatem-elkady
